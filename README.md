@@ -1,2 +1,3 @@
-Compilar com: javac Main.java
-Correr com: java Main
+1. Compilar com: javac Main.java
+
+2. Correr com: java Main
